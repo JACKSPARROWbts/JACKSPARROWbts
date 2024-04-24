@@ -11,12 +11,12 @@
 <br />
 <!-- about me -->
 <p align="center">
-  Hi, I'm Shankar Raju, Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ & Anime OTAKU from India 🇮🇳.
+  Hi, I'm Shankar Raju, Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ & Anime OTAKU from Tamilnadu - 🇮🇳.
   <br />
   <br />
   🎓 Currently an Appian Low Code Developer.
   <br />
-  💻 I love to learn new technologies and frameworks.
+  💻 I love to learn new technologies and frameworks.I believe coding, engineering is everything to me.
   <br />
   🧑‍💼 I’m also a freelancer working as a MERN stack developer or any languages. I like to contribute and help other developers, communities also.
   <br />
