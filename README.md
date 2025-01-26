@@ -14,7 +14,7 @@
   Hi, I'm Shankar Raju, Developer/Coder 💻,  Learner 👨‍💻 &  gamer 🦸‍♂️ & Anime OTAKU from Tamilnadu - 🇮🇳.
   <br />
   <br />
-  🎓 Currently an **AI Engineer** and I have experience in ML and AI developing models , Neural networks.
+🎓 Currently an <b>AI Engineer</b> and I have experience in <b>Machine Learning (ML)</b> and <b>Artificial Intelligence (AI)</b> developing models, <b>Neural Networks</b>.
   <br />
   💻 I love to learn new technologies and frameworks.I believe coding, engineering is everything to me.
   <br />
